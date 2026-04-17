@@ -1,0 +1,54 @@
+=======================================
+|      HARDWARE INVENTORY REPORT      |
+=======================================
+Generated on : Tue Apr 14 07:15:01 PM CET 2026 
+Hostname     : ubuntu2 
+User         : vboxuser5 
+Sections of the report: 
+   1_PROCESSOR(CPU)x   
+   2_MEMORY(RAM)   
+   3_STORAGE(DISKS)   
+   4_GRAPHICS(GPU)   
+   5_NETWORK HARDWARE   
+   6_MOTHERBOARD INFO   
+   7_USB DEVICES   
+
+STARTING THE REPORT...
+
+   Section 1 : PROCESSOR(CPU)   
+CPU Model name : AMD Ryzen 7 PRO 5850U with Radeon Graphics
+Architecture : x86_64
+Total CPU cores : 5
+ 
+   Section 2 : MEMORY(RAM)   
+Total memory : 5.7Gi
+Available memory : 3.5Gi
+ 
+   Section 3 : STORAGE(DISKS)   
+Disk(s) size : 40.8G
+Disk partitions : /dev/sda2 ,type : ext4 , usage : 13G , percentage : 33%
+ 
+   Section 4 : GRAPHICS   
+GPU model : VMware SVGA II Adapter
+ 
+   Section 5 : NETWORK HARDWARE   
+Interface: lo, IPv4: 127.0.0.1/8, MAC: 00:00:00:00:00:00
+Interface: enp0s3, IPv4: 10.0.2.15/24, MAC: 08:00:27:d8:03:65
+Interface: enp0s8, IPv4: 10.174.227.4/24, MAC: 08:00:27:a9:db:51
+ 
+   Section 6 : MOTHERBOARD INFO   
+Motherboard information :
+Manufacturer: Oracle Corporation
+Product Name: VirtualBox
+System Manufacturer: innotek GmbH
+System Product: VirtualBox
+ 
+   Section 7 : USB DEVICES   
+Linux Foundation 1.1 root hub
+VirtualBox USB Tablet
+Linux Foundation 2.0 root hub
+ 
+Auto_save succeeded.
+=======================================
+|            END OF REPORT            |
+=======================================
